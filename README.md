@@ -15,12 +15,11 @@ For each project we want a title slide and one, none, or two content slides.
 
 - `projectname-0.png`
 - `projectname-1.png`
-- `projectname-2.png`
-- `projectname.txt` or `projectname.md` (that's the speaker's notes)
+- `projectname.txt` or `projectname.md` (the speaker's notes)
 
 The files will be placed in a directory with the project name.
 
-The graphics files should be 1024×768.  
+The PNG graphics files should be 1024×768.  
 If they are not, they will be resized to fit.
 
 This repository contrains a [sample-project](sample-project/) directory with a set of empty files that you can build upon.
@@ -33,4 +32,4 @@ For projects focused on video/animation, an up to 100 seconds video/animation wi
 
 Please provide your project's slides through a pull request to this repository or add them to an issue ticket.
 
-Content should be submitted at least one week before the beginning of the LGM 2020.
+Content should be submitted before May 10th 2020.
