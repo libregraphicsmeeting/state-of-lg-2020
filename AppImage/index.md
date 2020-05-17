@@ -1,8 +1,11 @@
 # AppImage
 
 AppImage is a format to publish applications to the users of various Linux distributions.
+It allows Linux users to manage applications by drag-and-drop, as known from other desktop operating systems.
 
-It has seen a lot of traction in the field of Libre Graphics lately, possibly because it puts application authors into full control over what gets shipped and when, and is very easy to use for users of most mainstream Linux distributions without having to follow arbitrary distribution timelines and policies.
+![](https://user-images.githubusercontent.com/2480569/44744383-926a9200-aaf4-11e8-887e-3efba3170581.gif)
+
+The AppImage format has seen a lot of traction in the field of Libre Graphics lately, possibly because it puts application authors into full control over what gets shipped and when, and is very easy to use for users of most mainstream Linux distributions without having to follow arbitrary distribution timelines and policies.
 
 ## Already publishing official AppImage
 
